@@ -1,5 +1,7 @@
 #!/bin/sh 
 
+# 사용자 계정 일시 정지 스크립트!
+
 stime=10
 ami=`whoami`
 

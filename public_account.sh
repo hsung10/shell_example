@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# guest 및 공용 계정 초기화 
+# sample 디렉토리를 만들어 새로운 계정으로 추가
+
 sampledir="/tmp/sample"
 ami=$(whoami)
 
